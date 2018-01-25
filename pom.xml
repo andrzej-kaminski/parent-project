@@ -11,5 +11,12 @@
     <modules>
         <module>sub-project</module>
     </modules>
+    <dependencies>
+        <dependency>
+            <groupId>com.sub</groupId>
+            <artifactId>sub-project</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 </project>
